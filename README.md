@@ -2,5 +2,5 @@
 
 Contributor:
 
-- `<Sabat Agung Sirait> - <BE2747908>`
+- `Sabat Agung Sirait - BE2747908`
 - Bob
